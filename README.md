@@ -7,7 +7,7 @@ Seja bem vindo!!!
     
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=8400d3&center=true&vCenter=true&multiline=true&width=600&height=60&lines=IIntelig%C3%AAncia+%C3%A9+a+capacidade+de+se+adaptar+%C3%A0+mudan%C3%A7a.;Stephen+Hawking."/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=8400d3&center=true&vCenter=true&multiline=true&width=600&height=60&lines=intelig%C3%AAncia+%C3%A9+a+capacidade+de+se+adaptar+%C3%A0+mudan%C3%A7a.;Stephen+Hawking."/>
 </div>
     
 </br>
