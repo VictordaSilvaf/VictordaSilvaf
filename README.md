@@ -23,7 +23,7 @@ Seja bem vindo!!!
 <h3 style="color: #800080">Frameworks e Bibliotecas</h3>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' height="50em" width="50em"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg' height="50em" width="50em"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' height="50em" width="50em"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg' height="50em" width="50em"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' height="50em" width="50em"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg' height="50em" width="50em"/>    
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' height="50em" width="50em"/>    
