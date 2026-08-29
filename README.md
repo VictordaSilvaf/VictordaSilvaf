@@ -1,6 +1,16 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A44FF&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!+;%F0%9F%9A%80+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
+## 👨‍💻 Sobre mim
+
+Desenvolvedor Fullstack que gosta de transformar problemas complexos em soluções simples e eficientes.
+
+💻 **PHP • Laravel • TypeScript • React • React Native**  
+🏗️ **Arquitetura • Clean Code • DDD • APIs**  
+🧠 Curioso por tecnologia, arquitetura e tudo que envolve construir software de qualidade.
+
+🚀 **Aprender. Construir. Evoluir.**
+
 ##
 
 <div align="center">
@@ -72,5 +82,11 @@
 </a>
 
 </div>
+##
 
-![Snake animation](https://github.com/VictordaSilvaf/VictordaSilvaf/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/VictordaSilvaf/VictordaSilvaf/output/galaga-contribution-graph.svg"
+    width="100%"
+  />
+</p>
