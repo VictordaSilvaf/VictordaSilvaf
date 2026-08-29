@@ -3,6 +3,10 @@
 
 ##
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictordaSilvaf&locale=pt_BR" alt="GitHub Streak" /></a>
+
+##
+
 <div>
 <h3 style="color: #800080">Frameworks e Bibliotecas</h3>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' height="50em" width="50em"/>
