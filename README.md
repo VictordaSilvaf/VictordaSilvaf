@@ -3,7 +3,32 @@
 
 ##
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictordaSilvaf&theme=blueberry&locale=pt_BR" alt="GitHub Streak" /></a>
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictordaSilvaf&theme=aura&animation=stagger&name=VictordaSilvaf"
+  width="100%"
+/>
+
+<br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictordaSilvaf&theme=aura&animation=stagger"
+  width="49%"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictordaSilvaf&theme=aura&animation=stagger"
+  width="49%"
+/>
+
+<br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictordaSilvaf&theme=aura&animation=stagger&utcOffset=0"
+  width="50%"
+/>
+
+</div>
 
 ##
 
