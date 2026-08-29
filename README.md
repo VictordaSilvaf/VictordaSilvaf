@@ -1,17 +1,5 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A44FF&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!+Transformando+ideias+em+c%C3%B3digo+e+solu%C3%A7%C3%B5es.+;%F0%9F%9A%80+Welcome+to+my+GitHub!+Turning+ideas+into+code+and+solutions.)](https://git.io/typing-svg)
-    
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<div align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=8400d3&center=true&vCenter=true&multiline=true&width=600&height=60&lines=intelig%C3%AAncia+%C3%A9+a+capacidade+de+se+adaptar+%C3%A0+mudan%C3%A7a.;Stephen+Hawking."/>
-</div>
-    
-</br>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictordaSilvaf&show_icons=true&theme=dark&border_radius=45px&title_color=8400d4&icon_color=8400d4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictordaSilvaf&layout=compact&theme=dark&border_radius=45px&title_color=8400d4"/>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A44FF&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!+Transformando+ideias+em+c%C3%B3digo+e+solu%C3%A7%C3%B5es.+;%F0%9F%9A%80+Welcome+to+my+GitHub!+Turning+ideas+into+code+and+solutions." alt="Typing SVG" /></a>
 
 ##
 
