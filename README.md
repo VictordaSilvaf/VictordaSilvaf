@@ -1,9 +1,5 @@
 <div align="center">
-<h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-Seja bem vindo!!!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A44FF&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!+Transformando+ideias+em+c%C3%B3digo+e+solu%C3%A7%C3%B5es.+;%F0%9F%9A%80+Welcome+to+my+GitHub!+Turning+ideas+into+code+and+solutions.)](https://git.io/typing-svg)
     
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center">
