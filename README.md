@@ -31,13 +31,6 @@ Desenvolvedor Fullstack que gosta de transformar problemas complexos em soluçõ
   width="49%"
 />
 
-<br />
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictordaSilvaf&theme=aura&animation=stagger&utcOffset=0"
-  width="50%"
-/>
-
 </div>
 
 ##
